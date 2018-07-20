@@ -1,0 +1,6 @@
+WordCount example with spark and maven.
+
+Inspired by:
+http://www.robertomarchetto.com/spark_java_maven_example
+
+Notice the differences with the hadoop version
